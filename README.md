@@ -1,4 +1,8 @@
-### Hi there✨
+<div align="center">
+  <img width="460" height="auto" src="./images/programmer.png">
+  <h1>✨ Hi there ✨</h1>
+</div>
+
 I'm Constanza, I'm an Audiovisual Engineer and a Software Developer in development :wink: 
 I first learn programming in 2019 and I really loved it. The next year, in 2020, my classmates needed someone to programm our final anual group project and I signed up for the challenge, despite of being a newbie. And it was the best decision I could ever made. I realized that I had discovered my passion, better yet, my vocation. 
 
