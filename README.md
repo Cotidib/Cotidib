@@ -16,8 +16,9 @@ I first learned programming in 2019 and I really loved it. The next year, in 202
 
 #### :computer: I know some things about...
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Logo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/sass/sass-original.svg" alt="Sass Logo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/redux/redux-original.svg" alt="Redux Logo" width="40" height="40"/> 
-<br><img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/arduino/arduino-original.svg" alt="Arduino Logo" width="40" height="40"/>
 <br><img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/php/php-original.svg" alt="PHP Logo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-original.svg" alt="SQL Logo" width="40" height="40"/> 
+<br><img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/arduino/arduino-original.svg" alt="Arduino Logo" width="40" height="40"/>
+
 
 #### :computer: I want to learn about...
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original.svg" alt="NodeJS Logo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/express/express-original.svg" alt="Expresss Logo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mongodb/mongodb-original.svg" alt="MongoDB Logo" width="40" height="40"/> 
