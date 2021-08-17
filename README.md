@@ -22,7 +22,7 @@ I first learn programming in 2019 and I really loved it. The next year, in 2020,
 
 ##### And I know how to  <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/google/google-original.svg" alt="Google Logo" width="15" height="15"/>
 
-### :paperclip: Here are some of my projects
+### :paperclip: Here are some of my latest projects
 -comming soon-
 
 ### :paperclip: Here are some of my collaborations
