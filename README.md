@@ -3,7 +3,7 @@
   <h1>✨ Hi there ✨</h1>
 </div>
 
-<p align='justify'>I'm Constanza, I'm an Audiovisual Engineer and a Software Developer in development :wink: 
+<p align='justify'>I'm Constanza, I'm an Audiovisual Engineering student and a Software Developer in development :wink: 
 I first learn programming in 2019 and I really loved it. The next year, in 2020, my classmates needed a programmer for our final-anual-group-project and I signed up for the challenge, despite of being a newbie. And it was the best decision I could ever made. Since then, I decided to keep learning and realized that I had discovered my passion and better yet, my vocation. </p>
 
 #### :computer: I know about...
