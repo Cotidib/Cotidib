@@ -29,8 +29,6 @@ I first learned programming in 2019 and I really loved it. The next year, in 202
 #### :computer: My favorite editor is ...
 <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vscode/vscode-original.svg" alt="VSCode Logo" width="40" height="40"/>
 
-##### And I know how to  <img src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/google/google-original.svg" alt="Google Logo" width="15" height="15"/>
-
 ### :paperclip: Here are some of my projects
 -comming soon-
 
