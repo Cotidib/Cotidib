@@ -22,6 +22,3 @@ I first learned programming in 2019 and I really loved it. The next year, in 202
 
 ### :paperclip: Here are some of my projects
 -comming soon-
-
-### :paperclip: Here are some of my collaborations
-[Party-Bot](https://github.com/sebagalli9/PartyBot)
