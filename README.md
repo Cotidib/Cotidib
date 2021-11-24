@@ -19,7 +19,7 @@ I first learned programming in 2019 and I really loved it. The next year, in 202
 
 ### :paperclip: Here are some of my favorite projects
 * (In development) [Rock, Paper, Scissors App (React Js)](https://github.com/Cotidib/rock-paper-scissors-game)
-* ["En El Bosque" project landing page (DJango, HTML, CSS and Javascript)](www.enelbosquepingau.com)
+* ["En El Bosque" project landing page (DJango, HTML, CSS and Javascript)](http://www.enelbosquepingau.com)
 * [IP Adress Tracker (React Js and Node Js)](https://github.com/Cotidib/ip-address-tracker)
 * [Cocktail Shop (React Js)](https://github.com/Cotidib/cocktail-shop)
 * [To Do App (React Js)](https://github.com/Cotidib/to-do-app)
