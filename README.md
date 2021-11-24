@@ -26,7 +26,7 @@ I first learned programming in 2019 and I really loved it. The next year, in 202
 * [Responsive navigation bar (React Js)](https://github.com/Cotidib/responsive-navbar-demo)
 * [Menu Filter (React Js)](https://github.com/Cotidib/menu-filtering)
 * [Color Generator (React Js)](https://github.com/Cotidib/color-generator)
-* [Birthday Reminder (React Js])(https://github.com/Cotidib/birthday-reminder)
+* [Birthday Reminder (React Js)](https://github.com/Cotidib/birthday-reminder)
 * [Telegram Giftbot (.NET 5.0)](https://github.com/Cotidib/telegram-gift-bot)
 * [Roleplay (.NET 5.0)](https://github.com/Cotidib/pii-roleplay)
 * [Budget App (Python)](https://github.com/Cotidib/fcc-budget-app)
